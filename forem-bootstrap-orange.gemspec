@@ -4,7 +4,7 @@ require "forem-bootstrap-orange/version"
 
 Gem::Specification.new do |s|
   s.name        = "forem-bootstrap-orange"
-  s.version     = Forem::BootstrapOrange::VERSION
+  s.version     = "1.0"
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Navaneethan"]
   s.email       = ["sainavaneethan@gmail.com"]
